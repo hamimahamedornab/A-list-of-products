@@ -1,16 +1,35 @@
-# products
+# ProductList
 
-A new Flutter project.
+Create a Flutter application that consists of the following:
+
+
+ 
+
+
+•       A stateful widget called ProductList that displays a list of products. 
+
+
+•       Each product should have a name, price, and a "Buy Now" button.
+
+
+•       Implement a counter for each product that increments by 1 every time the "Buy Now" button is pressed.
+
+
+•       When the counter for a product reaches 5, show a dialog box with the message "Congratulations! You've bought 5 {Product Name}!" Replace {Product Name} with the actual name of the product.
+
+
+•       Use the ListView widget to display the product list.
+
+
+•       Implement navigation to a new page called CartPage when the user presses a "Go to Cart" button. 
+
+
+•       The CartPage should display the total number of products the user has bought.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+# ScreenShots
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![3](https://github.com/hamimahamedornab/A-list-of-products/assets/75578573/a8c4b048-75a8-4958-b8d7-2b681c1f2f7c)
+![2](https://github.com/hamimahamedornab/A-list-of-products/assets/75578573/30076482-9641-4865-94c9-7b7bf10bc81c)
+![1](https://github.com/hamimahamedornab/A-list-of-products/assets/75578573/a83792c9-ea84-4948-a813-7488e21b3931)
